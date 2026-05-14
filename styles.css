@@ -43,7 +43,6 @@ html { scroll-behavior: smooth; }
   height:58px;
   object-fit:contain;
   padding:4px;
-  background:rgba(242,232,223,.75);
   border-radius:16px;
   box-shadow:0 2px 10px rgba(1,46,64,.12)
 }
